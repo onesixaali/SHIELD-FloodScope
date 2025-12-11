@@ -1,5 +1,5 @@
 # SHIELD-FloodScope
-FloodScope risk assessment tool created by Saad Ali
+FloodScope flood risk assessment tool created by Saad Ali
 
 Colab: https://colab.research.google.com/drive/1dFDaU9jZ9FMoTM4a4SzBVESclZbyNQN3?usp=sharing
 
